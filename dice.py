@@ -1,3 +1,5 @@
+# python script to roll a die (1-6)
+
 import random
 
 for x in range(6):
